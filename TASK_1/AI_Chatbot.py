@@ -49,8 +49,8 @@ def simple_chatbot(user_input):
         "bye": "Goodbye! Have a great day!",
         "goodbye": "Goodbye! Have a great day!",
         "time": "what is time now",  
-        "who is the president of india":"Mr. Narendra Modi",
-        "Who is the president of india?":"Mr. Narendra Modi",
+        "who is the prime minister of india":"Mr. Narendra Modi",
+        "Who is the Prime Minister of India?":"Mr. Narendra Modi",
         "what is the capital of india?":"New Delhi"
     }
 
