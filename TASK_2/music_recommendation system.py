@@ -17,6 +17,7 @@ for dirname, _, filenames in os.walk('/kaggle/input'):
 # You can also write temporary files to /kaggle/temp/, but they won't be saved outside of the current session
 
 # Author: Zubaida Sehnaz
+# run the code on kaggle as it is in jupyter notebook format as for doing on vscode you need to download the csv file first 
 
 import numpy as np
 import pandas as pds
